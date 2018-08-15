@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:linux:gcc 7 (Ubuntu 7.3.0-16ubuntu3):--enable-static --disable-shared --disable-pthreads --disable-os2threads --disable-w32threads --disable-optimizations --disable-libv4l2 --disable-v4l2-m2m
