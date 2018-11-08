@@ -64,98 +64,24 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="rtrtrt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/ffmpeg.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="4791" selection-start-line="4791" selection-end-line="4791" />
-              <folding>
-                <element signature="e#142300#145265#0" expanded="true" />
-                <element signature="e#163752#163808#0" expanded="true" />
-                <element signature="e#166589#166610#0" expanded="true" />
-                <element signature="e#168962#168986#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/libavformat/mux.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18660">
-              <caret line="1244" selection-start-line="1244" selection-end-line="1244" />
-              <folding>
-                <element signature="e#40843#40964#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/libavfilter/lavfutils.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/ffmpeg_opt.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48690">
-              <caret line="3246" column="5" selection-start-line="3246" selection-start-column="5" selection-end-line="3246" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/libavcodec/mpegvideo_enc.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15345">
-              <caret line="1023" selection-start-line="1023" selection-end-line="1023" />
-              <folding>
-                <element signature="e#36907#36942#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/cmdutils.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11400">
-              <caret line="760" selection-start-line="760" selection-end-line="760" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/ffmpeg.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9765">
-              <caret line="651" column="4" selection-start-line="651" selection-start-column="4" selection-end-line="651" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -272,16 +198,17 @@
       <workItem from="1532689963984" duration="7144000" />
       <workItem from="1534347626937" duration="756000" />
       <workItem from="1534350004004" duration="108000" />
+      <workItem from="1541681877342" duration="803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20455000" />
+    <option name="totallyTimeSpent" value="21258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1488" height="881" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16088766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1629681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -293,7 +220,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.2338177" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32994923" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32893" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32994923" />
@@ -422,19 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/ffmpeg.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="4791" selection-start-line="4791" selection-end-line="4791" />
-          <folding>
-            <element signature="e#142300#145265#0" expanded="true" />
-            <element signature="e#163752#163808#0" expanded="true" />
-            <element signature="e#166589#166610#0" expanded="true" />
-            <element signature="e#168962#168986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/libavformat/mux.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18660">
@@ -479,16 +393,26 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="12" column="46" selection-start-line="10" selection-start-column="17" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/ffmpeg.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="4791" selection-start-line="4791" selection-end-line="4791" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ffmpeg-4.0.1/fftools/ffmpeg.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9765">
+        <state relative-caret-position="674">
           <caret line="651" column="4" selection-start-line="651" selection-start-column="4" selection-end-line="651" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rtrtrt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

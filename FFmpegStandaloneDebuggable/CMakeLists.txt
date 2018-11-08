@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.11)
-project(FFmpegStandalone2)
+project(FFmpegStandaloneDebuggable)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_VERBOSE_MAKEFILE ON)
